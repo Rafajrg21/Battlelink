@@ -1,0 +1,14 @@
+{
+  "name": "battlelink",
+  "version": "1.0.0",
+  "description": "A battleship game made with node.js and socket.io",
+  "main": "index.js",
+  "repository": "https://github.com/Rafajrg21/Battlelink",
+  "author": "Rafael Romero",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
